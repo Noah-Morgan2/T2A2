@@ -332,6 +332,48 @@ In this example, the relationships between Recipe, Ingredient, and RecipeIngredi
 
 # How to use Recipe API
 
+# Installation
+
+## Prerequisites:
+    
+    - Python3
+    - Bash
+    - Git
+    - Pip
+
+1. Open a terminal and navigate to a directory you'd like to clone the repository to.
+
+2. Clone the GitHub repository via SSH:
+    ```git clone git@github.com:Noah-Morgan2/T2A2.git```
+or via HTTPS:
+    ```git clone https://github.com/Noah-Morgan2/T2A2.git```
+
+3. Navigate to the src/ directory in the cloned repository
+    ``` cd T2A2/src/```
+
+4. Create a virtual environment and activate it
+
+macOS:
+    ```python3 -m venv venv```
+    ```source venv/bin.activate```
+
+Windows:
+    ```python3 -m venv venv```
+    ```venv/Scripts/activiate```
+
+5. Install Dependancies
+    ```pip3 install -r requirements.txt```
+
+6. Set up database
+    ```python3
+    >>> from app import db
+    >>> db.create_all()
+    >>> exit()```
+
+7. run the application
+    ```Flask run```
+
+
 1. Register a New User
 
 HTTP Verb: POST
