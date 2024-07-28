@@ -34,35 +34,35 @@ Overall, the Recipe API has a structured, effecint and user friendly solution to
 
 Below is the approved ERD design that the recipe API will be following
 
-![ERD Diagram](/Images/RecipeAPI_ERD_design.png)
+![ERD Diagram](/docs:/Images/RecipeAPI_ERD_design.png)
 
 # Trello Board
 
 Below is my Kanban board, which i used Trello to create. It shows each card discription and shows progress that was made throughout the project
 
-![Trello Board](/Images/1.png)
+![Trello Board](/docs:/Images/1.png)
 
-![Trello Board](/Images/2.png)
+![Trello Board](/docs:/Images/2.png)
 
-![Trello Board](/Images/3.png)
+![Trello Board](/docs:/Images/3.png)
 
-![Trello Board](/Images/4.png)
+![Trello Board](/docs:/Images/4.png)
 
-![Trello Board](/Images/5.png)
+![Trello Board](/docs:/Images/5.png)
 
-![Trello Board](/Images/0.png)
+![Trello Board](/docs:/Images/0.png)
 
-![Trello Board](/Images/6.png)
+![Trello Board](/doc:/Images/6.png)
 
-![Trello Board](/docs/Images/7.png)
+![Trello Board](/docs:/Images/7.png)
 
 ![Trello Board](/docs:/Images/8.png)
 
-![Trello Board](/Images/9.png)
+![Trello Board](/docs:/Images/9.png)
 
-![Trello Board](/Images/10.png)
+![Trello Board](/docs:/Images/10.png)
 
-![Trello Board](/Images/11.png)
+![Trello Board](/docs:/Images/11.png)
 
 
 # Third Party Services, Packages, and Dependancies
